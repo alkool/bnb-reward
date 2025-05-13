@@ -2,8 +2,8 @@
 {
   "name": "bnb-reward",
   "version": "1.0.0",
-  "homepage": "https://alkool.github.io/bnb-reward",
   "private": true,
+  "homepage": "https://alkool.github.io/bnb-reward",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
